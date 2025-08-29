@@ -2,7 +2,7 @@
 
 ### Backend Setup
 
-1. create .env file in the root `backend` folder and the ANTHROPIC_API_KEY
+1. create .env file in the root `backend` folder and add a ANTHROPIC_API_KEY
 
 2. Go into the `backend` folder:
     ```bash
